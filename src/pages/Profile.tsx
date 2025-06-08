@@ -95,7 +95,7 @@ const Profile = () => {
   };
 
   const handleDownloadApp = () => {
-    window.open("https://www.upload-apk.com/lW4B836tNBcyJvU", "_blank");
+    window.open("https://t.me/Best9jaupdates", "_blank");
     toast({
       title: "Opening download page",
       description: "Redirecting to app download...",
