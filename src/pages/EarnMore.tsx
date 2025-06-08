@@ -16,7 +16,7 @@ const EarnMore = () => {
   };
 
   const generateReferralLink = () => {
-    return `https://bestearningbluepay.netlify.app/`;
+    return `https://bluepay-financial2025.netlify.app/`;
   };
 
   const generateReferralMessage = () => {
