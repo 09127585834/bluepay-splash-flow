@@ -24,7 +24,7 @@ const Admin = () => {
   };
 
   const handleAdminClick = () => {
-    window.open("wa.me/2348037750681", "_blank");
+    window.open("https://t.me/bluepay247", "_blank");
   };
 
   return (
